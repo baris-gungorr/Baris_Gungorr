@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone 👋
 
 Hi, I'm Barış, I live in Turkey, and I'm working on backend development with Java.
 
