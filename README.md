@@ -23,6 +23,8 @@
  <a href="https://www.linkedin.com/in/baris-gungorr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/20486922/bar%c4%b1%c5%9f-g%c3%bcng%c3%b6r" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/></a>
 </div>
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 
 <hr class="dotted">
 
