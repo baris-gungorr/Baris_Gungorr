@@ -26,10 +26,7 @@
 
 <hr class="dotted">
 
-### 📕 Private Information's
 
-![](https://img.shields.io/badge/Repositories-31-white?style=for-the-badge)&nbsp;
-![](https://komarev.com/ghpvc/?username=baris-gungorr&style=for-the-badge)
 
 <hr class="dotted">
 
