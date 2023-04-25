@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">A passionate Backend/Mobile developer from Turkey.</h3>
+<h3 align="center">A passionate Mobile Application developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baris-gungorr&label=Profile%20views&color=ed0202&style=flat" alt="baris-gungorr" /> </p>
 
