@@ -25,8 +25,7 @@ A passionate Mobile Application developer from Turkey.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=baris-gungorr&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=baris-gungorr&icon=6&color=4)](https://visitcount.itsvg.in)
