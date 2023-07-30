@@ -3,6 +3,7 @@
 A passionate Mobile Application developer from Turkey.
 
 
+
 ## 🌐 Socials:
  <a href="https://www.linkedin.com/in/baris-gungorr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
