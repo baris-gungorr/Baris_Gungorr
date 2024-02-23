@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baris</h1>
+<h1 align="center">Hi 👋, I'm Barış</h1>
 # 💫 About Me:
 A passionate Mobile Application developer from Turkey.
 
